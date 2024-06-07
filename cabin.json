@@ -1,0 +1,62 @@
+[
+  {
+    "cabin_id": 1,
+    "cabin_name": "A1",
+    "cabin_number": 101,
+    "deck": "A"
+  },
+  {
+    "cabin_id": 2,
+    "cabin_name": "A2",
+    "cabin_number": 102,
+    "deck": "A"
+  },
+  {
+    "cabin_id": 3,
+    "cabin_name": "B1",
+    "cabin_number": 201,
+    "deck": "B"
+  },
+  {
+    "cabin_id": 4,
+    "cabin_name": "B2",
+    "cabin_number": 202,
+    "deck": "B"
+  },
+  {
+    "cabin_id": 5,
+    "cabin_name": "C1",
+    "cabin_number": 301,
+    "deck": "C"
+  },
+  {
+    "cabin_id": 6,
+    "cabin_name": "C2",
+    "cabin_number": 302,
+    "deck": "C"
+  },
+  {
+    "cabin_id": 7,
+    "cabin_name": "D1",
+    "cabin_number": 401,
+    "deck": "D"
+  },
+  {
+    "cabin_id": 8,
+    "cabin_name": "D2",
+    "cabin_number": 402,
+    "deck": "D"
+  },
+  {
+    "cabin_id": 9,
+    "cabin_name": "E1",
+    "cabin_number": 501,
+    "deck": "E"
+  },
+  {
+    "cabin_id": 10,
+    "cabin_name": "E2",
+    "cabin_number": 502,
+    "deck": "E"
+  }
+]

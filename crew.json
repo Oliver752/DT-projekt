@@ -1,0 +1,67 @@
+[
+  {
+    "crew_id": 1,
+    "cabin_id": 6,
+    "first_name": "James",
+    "last_name": "Brown",
+    "role": "Captain",
+    "lifeboat": {
+      "lifeboat_id": 4,
+      "capacity": 65,
+      "launchtime": {"$date": "1912-04-14T01:40:00Z"},
+      "survivorsCount": 32
+    }
+  },
+  {
+    "crew_id": 2,
+    "cabin_id": 7,
+    "first_name": "Sarah",
+    "last_name": "Davis",
+    "role": "First Officer",
+    "lifeboat": {
+      "lifeboat_id": 5,
+      "capacity": 65,
+      "launchtime": {"$date": "1912-04-14T01:45:00Z"},
+      "survivorsCount": 29
+    }
+  },
+  {
+    "crew_id": 3,
+    "cabin_id": 8,
+    "first_name": "Robert",
+    "last_name": "Miller",
+    "role": "Second Officer",
+    "lifeboat": {
+      "lifeboat_id": 6,
+      "capacity": 65,
+      "launchtime": {"$date": "1912-04-14T01:50:00Z"},
+      "survivorsCount": 35
+    }
+  },
+  {
+    "crew_id": 4,
+    "cabin_id": 9,
+    "first_name": "Linda",
+    "last_name": "Wilson",
+    "role": "Chief Engineer",
+    "lifeboat": {
+      "lifeboat_id": 7,
+      "capacity": 65,
+      "launchtime": {"$date": "1912-04-14T01:55:00Z"},
+      "survivorsCount": 30
+    }
+  },
+  {
+    "crew_id": 5,
+    "cabin_id": 10,
+    "first_name": "Michael",
+    "last_name": "Taylor",
+    "role": "Steward",
+    "lifeboat": {
+      "lifeboat_id": 8,
+      "capacity": 65,
+      "launchtime": {"$date": "1912-04-14T02:00:00Z"},
+      "survivorsCount": 28
+    }
+  }
+]

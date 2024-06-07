@@ -1,0 +1,172 @@
+[
+  {
+    "passenger_id": 1,
+    "fist_name": "John",
+    "last_name": "Doe",
+    "gender": "male",
+    "age": 28,
+    "survived": true,
+    "SibSp": 0,
+    "ParCh": 0,
+    "family_size": 1,
+    "embarking_port": "S",
+    "cabin_id": 1,
+    "lifeboat_id": 1,
+    "address": {
+      "state": "CA",
+      "country": "USA",
+      "town": "San Francisco",
+      "postal_code": "94107",
+      "street": "123 Main St"
+    },
+    "ticket": {
+      "ticket_id": 1,
+      "ticket_code": "A12345",
+      "fare": 72.5,
+      "boarding_port": "S",
+      "destination_port": "C",
+      "ticket_count": 1,
+      "purchase_date": {"$date": "1912-04-10T00:00:00Z"},
+      "Pclass": {
+        "pclass": "1",
+        "description": "First Class"
+      }
+    }
+  },
+  {
+    "passenger_id": 2,
+    "fist_name": "Jane",
+    "last_name": "Smith",
+    "gender": "female",
+    "age": 34,
+    "survived": false,
+    "SibSp": 1,
+    "ParCh": 0,
+    "family_size": 2,
+    "embarking_port": "C",
+    "cabin_id": 2,
+    "lifeboat_id": null,
+    "address": {
+      "state": "NY",
+      "country": "USA",
+      "town": "New York",
+      "postal_code": "10001",
+      "street": "456 Broadway"
+    },
+    "ticket": {
+      "ticket_id": 2,
+      "ticket_code": "B67890",
+      "fare": 42.3,
+      "boarding_port": "C",
+      "destination_port": "S",
+      "ticket_count": 2,
+      "purchase_date": {"$date": "1912-04-10T00:00:00Z"},
+      "Pclass": {
+        "pclass": "2",
+        "description": "Second Class"
+      }
+    }
+  },
+  {
+    "passenger_id": 3,
+    "fist_name": "Alice",
+    "last_name": "Johnson",
+    "gender": "female",
+    "age": 23,
+    "survived": true,
+    "SibSp": 0,
+    "ParCh": 0,
+    "family_size": 1,
+    "embarking_port": "Q",
+    "cabin_id": 3,
+    "lifeboat_id": 2,
+    "address": {
+      "state": "TX",
+      "country": "USA",
+      "town": "Austin",
+      "postal_code": "73301",
+      "street": "789 Congress Ave"
+    },
+    "ticket": {
+      "ticket_id": 3,
+      "ticket_code": "C11223",
+      "fare": 27.0,
+      "boarding_port": "Q",
+      "destination_port": "C",
+      "ticket_count": 1,
+      "purchase_date": {"$date": "1912-04-10T00:00:00Z"},
+      "Pclass": {
+        "pclass": "3",
+        "description": "Third Class"
+      }
+    }
+  },
+  {
+    "passenger_id": 4,
+    "fist_name": "Bob",
+    "last_name": "Brown",
+    "gender": "male",
+    "age": 45,
+    "survived": false,
+    "SibSp": 1,
+    "ParCh": 2,
+    "family_size": 4,
+    "embarking_port": "S",
+    "cabin_id": 4,
+    "lifeboat_id": null,
+    "address": {
+      "state": "IL",
+      "country": "USA",
+      "town": "Chicago",
+      "postal_code": "60605",
+      "street": "101 Lake Shore Dr"
+    },
+    "ticket": {
+      "ticket_id": 4,
+      "ticket_code": "D44556",
+      "fare": 12.5,
+      "boarding_port": "S",
+      "destination_port": "Q",
+      "ticket_count": 4,
+      "purchase_date": {"$date": "1912-04-10T00:00:00Z"},
+      "Pclass": {
+        "pclass": "3",
+        "description": "Third Class"
+      }
+    }
+  },
+  {
+    "passenger_id": 5,
+    "fist_name": "Eve",
+    "last_name": "White",
+    "gender": "female",
+    "age": 19,
+    "survived": true,
+    "SibSp": 0,
+    "ParCh": 0,
+    "family_size": 1,
+    "embarking_port": "C",
+    "cabin_id": 5,
+    "lifeboat_id": 3,
+    "address": {
+      "state": "FL",
+      "country": "USA",
+      "town": "Miami",
+      "postal_code": "33101",
+      "street": "202 Ocean Dr"
+    },
+    "ticket": {
+      "ticket_id": 5,
+      "ticket_code": "E77889",
+      "fare": 52.8,
+      "boarding_port": "C",
+      "destination_port": "S",
+      "ticket_count": 1,
+      "purchase_date": {"$date": "1912-04-10T00:00:00Z"},
+      "Pclass": {
+        "pclass": "1",
+        "description": "First Class"
+      }
+    }
+  }
+]
